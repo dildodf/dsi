@@ -51,7 +51,10 @@ body {
             background-color: #34a853;
             color: white;
         }
-
+       .btn-a-cardapio {
+            background-color: red;
+            color: white;
+        }
         .btn:hover {
             opacity: 0.9;
         }
